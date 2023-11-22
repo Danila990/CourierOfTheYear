@@ -1,2 +1,0 @@
-# HyperCasual-runner
-Прототип runner
